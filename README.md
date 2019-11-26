@@ -8,6 +8,6 @@
 Automated, machine learning based analysis of class-A GPCR structures / MD trajectories for their activation related structural features.
 
 
-For more details coming soon.
+More details coming soon.
 
 
