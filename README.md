@@ -1,7 +1,7 @@
 # GAUGE Tool for class-A GPCR structural analysis
 ### Creators: Nilkanth Patel and Prof. Vsevolod Katritch 
-####            (nilkantp/at/usc/dot/edu)
-####            University of Southern California (USC)
+            (nilkantp/at/usc/dot/edu)
+            University of Southern California (USC)
             
 
 
